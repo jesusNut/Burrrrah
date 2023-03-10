@@ -5,3 +5,4 @@ Added Line 4
 Added Line 5
 Added Hotfix1
 Added Hotfix2
+Added Master branch line to demo 3 way merge.
